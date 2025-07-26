@@ -16,5 +16,5 @@ StudentOverflow es una aplicación web básica tipo foro donde los usuarios pued
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
+git clone (https://github.com/jeftevelasco06/studentoverflow/edit/main/README.md)
+cd studentoverflow
